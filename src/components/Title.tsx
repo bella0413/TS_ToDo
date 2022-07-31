@@ -9,9 +9,9 @@ const Title: React.FC = () => {
 
 const styles = StyleSheet.create({
   title: {
-      paddingVertical: 40,
-      fontSize: 36,
-      color: '#000000'
+    paddingVertical: 40,
+    fontSize: 36,
+    color: '#000000'
   },
 });
 
